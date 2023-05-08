@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubUI</string>
+    <string name="todo">TODO</string>
+    <string name="my_it">MY IT</string>
+    <string name="korean_info">개발자 명함 생성기</string>
+    <string name="loginbutton">Github로 시작하기</string>
+    <string name="login_background">TODO</string>
+    <string name="second_background">TODO</string>
+    <string name="char_group">TODO</string>
+    <string name="charinfo_group">TODO</string>
+</resources>
